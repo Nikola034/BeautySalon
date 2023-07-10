@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Fakultet/Predmeti/Drugi semestar/Objektno orijentisano programiranje 1/Projekat/jar_files/junit4.jar"/>
+	<classpathentry kind="lib" path="E:/Fakultet/Predmeti/Drugi semestar/Objektno orijentisano programiranje 1/Projekat/jar_files/junit5-4.6.0.jar"/>
+	<classpathentry kind="lib" path="xchart-3.8.2/xchart-3.8.2/xchart-3.8.2.jar"/>
+	<classpathentry kind="lib" path="xchart-3.8.2/xchart-3.8.2/xchart-demo-3.8.2.jar"/>
+	<classpathentry kind="lib" path="E:/Fakultet/Predmeti/Drugi semestar/Objektno orijentisano programiranje 1/Projekat/jar_files/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Fakultet/Predmeti/Drugi semestar/Objektno orijentisano programiranje 1/Projekat/jar_files/miglayout15-swing.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

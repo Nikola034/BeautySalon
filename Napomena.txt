@@ -1,0 +1,2 @@
+Izmenio sam sve ono sto ste savetovali, ukljucujuci deljenje glavne klase na 6 delova, izracunavanje bonusa.
+Sortirao sam i fajlove u folderu projekta.
